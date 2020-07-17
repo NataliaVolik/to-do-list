@@ -5,3 +5,6 @@ Start app: `ng serve` or `npm start`
 
 <a href="src/assets/img/list1.png"><img src="src/assets/img/list1.png" width="280" ></a>
 <a href="src/assets/img/list2.png"><img src="src/assets/img/list2.png" width="280" ></a>
+
+## Demo
+[https://nataliavolik.github.io/to-do-list/](https://nataliavolik.github.io/to-do-list/)
