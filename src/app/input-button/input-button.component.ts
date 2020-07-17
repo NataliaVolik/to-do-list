@@ -16,6 +16,5 @@ export class InputButtonComponent implements OnInit {
     this.todoArray.push(this.todo);
     this.todo = '';
     console.log(this.todoArray);
-  
   }
 }
